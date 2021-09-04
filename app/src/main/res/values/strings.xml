@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tipCalculator</string>
+    <string name="total_amount_hint">Total Amount</string>
+    <string name="tax_amount_hint">Tax Percent</string>
+    <string name="to_pay">To Pay</string>
+    <string name="percent">Percent</string>
+    <string name="amount">Amount</string>
+    <string name="_0">0%</string>
+    <string name="_5">5%</string>
+    <string name="_10">10%</string>
+    <string name="_20">20%</string>
+    <string name="calculate">Calculate</string>
+</resources>
